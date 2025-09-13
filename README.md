@@ -1,2 +1,2 @@
 # EID1_G11
-Grupo:
+Grupo: Alan Bernales, Elsa Duran, Emilio Fernandez, Luciana Lagos
